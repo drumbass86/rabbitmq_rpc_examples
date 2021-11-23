@@ -36,4 +36,4 @@ where 34 - param value N  in range [0 - .....]
 
 ## Authors
 
-* **Ivanov Andrey** - [drumbass86](drumbass1986@yandex.ru)
+* **Ivanov Andrey** - (<drumbass1986@yandex.ru> / @drumbass86)
